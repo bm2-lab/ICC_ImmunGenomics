@@ -1,0 +1,1 @@
+python /home/zhouchi/software/MuPeXI/MuPeXI.py -v /home/zhouchi/HCC/data/5year_sampleout/${sample_name}/${sample_name}_withChr.vcf -c /home/zhouchi/software/MuPeXI/config.ini -a ${HLA_str} -l 8,9,10,11 -n -A GRCh37 -d /home/zhouchi/HCC/neoantigen/${group_name}/${sample_name}
